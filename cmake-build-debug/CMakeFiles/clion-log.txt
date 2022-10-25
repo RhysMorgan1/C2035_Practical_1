@@ -1,0 +1,10 @@
+/home/rhys/Desktop/clion-2022.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/rhys/CLionProjects/C2035_Practical_1 -B /home/rhys/CLionProjects/C2035_Practical_1/cmake-build-debug
+-- The C compiler identification is GNU 11.3.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/rhys/CLionProjects/C2035_Practical_1/cmake-build-debug
